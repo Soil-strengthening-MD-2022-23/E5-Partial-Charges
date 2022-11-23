@@ -51,3 +51,7 @@
 4. Combine the `stressXf.txt` data for all four filler concentrations `X` into one file `qY_stress.txt` for the specified charge `Y`.
 5. Set the file `in` to `qY_stress.txt` and `out` to `qY_St_avg.txt` in `AvgSt.c`.
 6. Run `AvgSt.c` and plot the resulting data on a logarithmic time scale. (Remember to delete the last line of `qY_St_avg.txt`.)
+
+# Notes
+
+If jupyter breaks on ubuntu, type this command in the terminal: ```python3 -m pip install ipykernel ipython -U --force-reinstall```
