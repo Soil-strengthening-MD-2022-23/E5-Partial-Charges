@@ -54,4 +54,4 @@
 
 # Notes
 
-If jupyter breaks on ubuntu, type this command in the terminal: ```python3 -m pip install ipykernel ipython -U --force-reinstall```
+If jupyter breaks on ubuntu, type this command in the terminal: ```pip install ipykernel ipython -U --force-reinstall```
